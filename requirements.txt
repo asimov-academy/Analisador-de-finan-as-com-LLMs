@@ -1,0 +1,9 @@
+langchain_core==0.2.39
+langchain_groq==0.1.9
+langchain_openai==0.1.23
+ofxparse==0.21
+openai==1.45.0
+pandas==2.2.2
+plotly==5.24.0
+python-dotenv==1.0.1
+streamlit==1.35.0
