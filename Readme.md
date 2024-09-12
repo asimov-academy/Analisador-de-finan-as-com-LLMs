@@ -4,9 +4,8 @@
 
 Este é um projeto que te permite analisar finanças pessoais, baseados em arquivos .ofx, utilizando modelos de linguagem (ChatGPT, Claude, Groq, LLMs locais) para categorizar automaticamente as transações.
 
-<img src="./images/video.gif"/>
-Este é o código fonte do projeto apresentado neste vídeo:
-[https://www.instagram.com/reel/C8Ndmh2OAze/](https://www.instagram.com/reel/C_qDoe2O1Dn/)
+<img src="./video.gif"/>
+Este é o código fonte do projeto apresentado [neste vídeo](https://www.instagram.com/reel/C_qDoe2O1Dn/):
 
 
 Se quer aprender a como programar do zero em Python e a trabalhar com IA, não deixe de [criar uma conta na Asimov Academy](https://hub.asimov.academy/registrar) e assistir aos nossos cursos gratuitos!
@@ -20,7 +19,7 @@ Se quer aprender a como programar do zero em Python e a trabalhar com IA, não d
 
 1.	Clone o repositório e navegue até o diretório do projeto.
 2.	Instale os pacotes Python necessários:
-
+git 
 `pip install -r requirements.txt`
 
 3.	Crie um arquivo .env e adicione sua chave da Groq nele, seguindo o modelo: `GROQ_API_KEY=sua-chave`.
