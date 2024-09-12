@@ -5,7 +5,8 @@
 Este é um projeto que te permite analisar finanças pessoais, baseados em arquivos .ofx, utilizando modelos de linguagem (ChatGPT, Claude, Groq, LLMs locais) para categorizar automaticamente as transações.
 
 <img src="./video.gif"/>
-Este é o código fonte do projeto apresentado [neste vídeo](https://www.instagram.com/reel/C_qDoe2O1Dn/):
+Este é o código fonte do projeto apresentado [neste vídeo](https://www.instagram.com/p/C_03fokuu-4/):
+
 
 
 Se quer aprender a como programar do zero em Python e a trabalhar com IA, não deixe de [criar uma conta na Asimov Academy](https://hub.asimov.academy/registrar) e assistir aos nossos cursos gratuitos!
